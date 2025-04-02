@@ -1,35 +1,41 @@
-# 👋 Hi, I’m Gerald Mutuku (@mutuku-gerald)
+Here's an updated version of your GitHub bio with a stronger emphasis on **data science, data analysis, Go programming, and Python programming**:  
+
+---
+
+# 👋 Hi, I’m Gerald Mutuku (@mutuku-gerald)  
 
 ## 🚀 About Me  
-I'm passionate about **technology, cloud computing, and digital compliance**. I explore **DevOps, cybersecurity, data science, and web crawling**, while contributing to **software compliance and financial regulation initiatives**.  
+I'm passionate about **data science, data analysis, and software engineering**. I specialize in **Python and Go programming**, leveraging **data-driven insights** to solve real-world problems. My interests extend to **cloud computing, automation, and digital compliance**, ensuring that technology aligns with regulatory frameworks.  
 
 ## 👀 Interests  
-- ☁️ Cloud Computing & Kubernetes  
-- 🔐 Cybersecurity & Digital Compliance  
 - 📊 Data Science & Data Analysis  
+- 🐍 Python & Go Programming  
+- ☁️ Cloud Computing & Kubernetes  
 - 🕷️ Web Crawling & Automation  
+- 🔐 Cybersecurity & Digital Compliance  
 - 🖥️ DevOps & Infrastructure as Code  
 - 🎙️ Transcription & Content Creation  
 - 💡 Open Source & Tech for Social Good  
 
 ## 🌱 Currently Learning  
-- Kubernetes & Cloud-Native Development 🐳☸️  
-- Cybersecurity & Ethical Hacking 🔐  
 - Data Science & Machine Learning 🤖📊  
-- Advanced Web Scraping & Automation 🕷️  
+- Advanced Data Analytics & Visualization 📈  
+- Go & Python for High-Performance Computing 🐍🐹  
+- Kubernetes & Cloud-Native Development ☸️  
+- Web Scraping & Automation 🕷️  
 - Software & Data Compliance 🔍  
-- Advanced Transcription ✍️  
 
 ## 💞️ Looking to Collaborate On  
-- Open-source projects related to cybersecurity, compliance, and cloud computing  
-- Data science projects focusing on analytics & machine learning  
-- Web crawling & automation tools  
-- DevOps automation & infrastructure management  
-- Community-driven knowledge-sharing initiatives  
+- Data science and analytics projects  
+- Machine learning and AI-driven applications  
+- Python and Go-based automation tools  
+- Web crawling & data extraction frameworks  
+- Cloud computing and DevOps automation  
+- Open-source initiatives for data-driven decision-making  
 
 ## 📫 Connect with Me  
 - GitHub: [mutuku-gerald](https://github.com/mutuku-gerald)  
-- Email: mutukugerald@gmail.com
+- Email: mutukugerald@gmail.com  
 
 ## ⚡ Fun Fact  
-I love **data storytelling**—numbers have powerful narratives when presented right! 📊🎭  
+I believe **every dataset tells a story**—uncovering patterns in numbers is like solving a mystery! 🔍📊  
